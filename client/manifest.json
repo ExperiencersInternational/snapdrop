@@ -1,6 +1,6 @@
 {
-    "name": "Snapdrop",
-    "short_name": "Snapdrop",
+    "name": "Snapdrop+",
+    "short_name": "Snapdrop+",
     "icons": [{
         "src": "images/android-chrome-192x192.png",
         "sizes": "192x192",
@@ -36,5 +36,9 @@
             "text": "text",
             "url": "url"
         }
-    }
+    },
+"related_applications": [{
+    "platform": "play",
+    "url": "https://play.google.com/store/apps/details?id=com.fmsys.snapdrop"
+  }]
 }
